@@ -108,7 +108,7 @@ label[for="new__note-title"] {
   margin: 0 0 20px;
 }
 
-input #new-task {
+input #new__note-title {
   width: 318px;
 }
 
